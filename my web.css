@@ -1,0 +1,192 @@
+body {
+
+}
+
+* {
+	padding: 0px;
+	margin: 0px;
+	
+}
+
+header {
+	background-color: #000C20;
+	width: 100%;
+	height: 100px;
+	position: sticky;
+	top: 0px;
+}
+header img {
+margin-left: 30px;
+transition: width 2s;
+
+}
+
+/*img:hover {
+    transform: rotateY(150deg);*/
+
+}
+.img1 img {
+	margin-right: 0px;
+}
+
+.bet {
+	float: left;
+}
+
+.ig {
+	position: relative;
+}
+
+.abs {
+	position: absolute;
+	margin-top: -500px;
+	margin-left:30%;
+}
+
+.wit h1 {
+	color: #fff;
+	font-size: 5vw;
+	text-align: center;
+
+}
+
+.wit p {
+	color: #fff;
+	text-align: center;
+	font-size: 3vw;
+}
+
+.Yinka {
+	color: orangered;
+}
+
+.yoru {
+	color: orangered;
+
+}
+.cent h1 {
+	color: orangered;
+}
+
+.cent {
+text-align: center;
+border: 1px solid grey;
+background-color:#000C20;
+color: #fff;
+padding: 40px;
+width: 30%;
+border-radius: 0% 0% 50% 50%;
+box-shadow: 3px 4px 8px black;
+margin-left: 35%;
+}
+ .cent p:first-letter{
+	font-size: 3em;
+	color: orangered;
+}
+
+.cont {
+	display: flex;
+	justify-content: space-around;
+
+
+}
+.beg {
+	width: 20%;
+	padding: 10px;
+	background-color: #000C20;
+	color: #fff;
+	border: 1px solid grey;
+	box-shadow: 3PX 5PX 7PX black;
+}
+.beg:hover {
+	box-shadow: 5px 7px 10px lime;
+}
+
+.int {
+	width: 20%;
+	padding: 10PX;
+	background-color: #fff;
+	color: #000C20;;
+	border: 1px solid grey;
+	box-shadow: 3PX 5PX 7PX black;
+
+}
+
+.int:hover {
+	box-shadow: 5px 7px 10px green;
+}
+.prof {
+	width: 20%;
+	padding: 10PX;
+	background-color: #000C20;
+	color:#fff;
+	border: 1px solid grey;
+	box-shadow: 3PX 5PX 7PX black;
+
+}
+
+.prof:hover {
+	box-shadow: 5px 7px 10px lime;
+}
+#all {
+	background-color: #C9DFF9;
+}
+.prov {
+	display: flex;
+	justify-content: space-around;
+}
+.ver {
+	height: 100px;
+	background-color: #fff;
+	color:#000C20;
+	text-shadow: 2PX 3PX 3PX black;
+	padding: 5px;
+	padding-top: 50PX;
+	border-radius: 50px;
+	box-shadow: 3px 2px 5px black;
+}
+
+.idio {
+	height: 100px;
+	background-color:#000C20;
+	color: #fff;
+	text-shadow: 2PX 3PX 3PX black;
+	padding: 5px;
+	padding-top: 50PX;
+	border-radius: 50px;
+	box-shadow: 3px 2px 5px black;
+}
+
+
+.poem {
+
+	height: 100px;
+	background-color: #fff;
+	color: #000C20;
+	text-shadow: 2PX 3PX 3PX black;
+	padding: 5px;
+	padding-top: 50PX;
+	border-radius: 50px;
+	box-shadow: 3px 2px 5px black;
+}
+
+
+/*.bt a button{
+width: 10%;
+height: 50px;
+text-align: center;
+margin-left: 46.5%;
+background-color: orangered;
+font-size: large;
+color:white;
+border-radius: 5px;
+border: none;
+*/
+}
+
+.form {
+	background-color: blue;
+	margin-left: 40%;
+	width: 10%;	
+	height:50px;
+}
